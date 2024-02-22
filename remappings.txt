@@ -1,0 +1,2 @@
+cowprotocol/=lib/cow-amm/lib/composable-cow/lib/cowprotocol/src/contracts/
+safe/=lib/cow-amm/lib/composable-cow/lib/safe/contracts/
